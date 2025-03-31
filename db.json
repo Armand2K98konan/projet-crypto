@@ -1,0 +1,157 @@
+{
+  "utilisateur": [
+    {
+      "nomUtilisateur": "kouakou",
+      "prenomUtilisateur": "konan armand",
+      "email": "konanarmandkouakou79@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "1"
+    },
+    {
+      "nomUtilisateur": "Kouakou",
+      "prenomUtilisateur": "Konan armand",
+      "email": "konanarmandkouakou79@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "2"
+    },
+    {
+      "nomUtilisateur": "Kouakou",
+      "prenomUtilisateur": "Konan armand",
+      "email": "konanarmandkouakou79@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "3"
+    },
+    {
+      "nomUtilisateur": "Kouakou",
+      "prenomUtilisateur": "Konan armand",
+      "email": "konanarmandkouakou79@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "4"
+    },
+    {
+      "nomUtilisateur": "Kouakou",
+      "prenomUtilisateur": "Konan armand",
+      "email": "konanarmandkouakou79@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "5"
+    },
+    {
+      "nomUtilisateur": "Amanalan",
+      "prenomUtilisateur": "Mathias",
+      "email": "mathias@gmail.com",
+      "telephone": "0143567898",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567",
+      "id": "6"
+    },
+    {
+      "nomUtilisateur": "Konate",
+      "prenomUtilisateur": "mamadou",
+      "email": "konate@gmail.com",
+      "telephone": "0123456789",
+      "motDePasse": "123456789",
+      "ConfirmMotDePasse": "123456789",
+      "id": "7"
+    },
+    {
+      "nomUtilisateur": "kouakou",
+      "prenomUtilisateur": "martial",
+      "email": "martial@gmail.com",
+      "telephone": "0154456789",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567",
+      "id": "8"
+    },
+    {
+      "nomUtilisateur": "kouakou",
+      "prenomUtilisateur": "kouame",
+      "email": "kouame@gmail.com",
+      "telephone": "0154456789",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "9"
+    },
+    {
+      "nomUtilisateur": "kouame",
+      "prenomUtilisateur": "aristide",
+      "email": "aristide@gmail.com",
+      "telephone": "0788986734",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567",
+      "id": "10"
+    },
+    {
+      "id": "c732",
+      "nomUtilisateur": "Kouakou",
+      "prenomUtilisateur": " armand",
+      "email": "konanarmandkouakou80@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567"
+    },
+    {
+      "id": "ffe1",
+      "nomUtilisateur": "konan",
+      "prenomUtilisateur": "armel",
+      "email": "armel@yahoo.fr",
+      "telephone": "0598765434",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567"
+    },
+    {
+      "id": "9da0",
+      "nomUtilisateur": "kouame",
+      "prenomUtilisateur": "kouame",
+      "email": "kouame@yaho.fr",
+      "telephone": "0123456778",
+      "motDePasse": "123123",
+      "ConfirmMotDePasse": "123123"
+    },
+    {
+      "id": "eeb4",
+      "nomUtilisateur": "koffi",
+      "prenomUtilisateur": "kouakou",
+      "email": "koffi@gmail.com",
+      "telephone": "0151504005",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567"
+    },
+    {
+      "nomUtilisateur": "Ouattara",
+      "prenomUtilisateur": "Lamine",
+      "email": "lamine23@gmail.com",
+      "telephone": "0151534567",
+      "motDePasse": "1234567",
+      "ConfirmMotDePasse": "1234567",
+      "id": "1vskG8O"
+    },
+    {
+      "nomUtilisateur": "YAO KAN",
+      "prenomUtilisateur": "CHANTAL",
+      "email": "yao@gmail.com",
+      "telephone": "0788986734",
+      "motDePasse": "123123",
+      "ConfirmMotDePasse": "123123",
+      "id": "L6iIjZg"
+    },
+    {
+      "nomUtilisateur": "konan",
+      "prenomUtilisateur": "wilfried",
+      "email": "konan23@gmail.com",
+      "telephone": "0154456789",
+      "motDePasse": "123456",
+      "ConfirmMotDePasse": "123456",
+      "id": "BofJJhu"
+    }
+  ]
+}
